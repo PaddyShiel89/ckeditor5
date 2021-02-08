@@ -1,7 +1,7 @@
 {
-  "name": "@ckeditor/ckeditor5-build-classic",
+  "name": "@paddyshiel/ckeditor5-build-roll20-macros",
   "version": "25.0.0",
-  "description": "The classic editor build of CKEditor 5 – the best browser-based rich text editor.",
+  "description": "A custom CKEditor build optimised for creating Roll20 macros.",
   "keywords": [
     "ckeditor5-build",
     "ckeditor",
@@ -18,7 +18,8 @@
     "collaboration",
     "collaborative",
     "real-time",
-    "framework"
+    "framework",
+    "roll20"
   ],
   "main": "./build/ckeditor.js",
   "files": [
